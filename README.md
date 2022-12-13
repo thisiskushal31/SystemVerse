@@ -2,7 +2,7 @@
   <h1>Welcome to Systemverse 👋💻</h1>
 </div>
 
-## About SocialSplit
+## About Systemverse
 
 - To be added
 
@@ -26,7 +26,7 @@
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/thisiskushal31/SocialSplit/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/thisiskushal31/Systemverse/blob/main/LICENSE) file for details.
 
 ## About Me
 
