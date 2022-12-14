@@ -4,7 +4,7 @@
 
 ## About Systemverse
 
-- To be added
+Systemverse a full-stack CRUD application using React as frontend and spring boot as backend.  
 
 ## Features
 
