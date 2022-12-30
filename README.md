@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Welcome to Systemverse 👋💻</h1>
+  <h1>Welcome to SystemVerse 👋💻</h1>
 </div>
 
-## About Systemverse
+## About SystemVerse
 
-Systemverse a full-stack CRUD application using React as frontend and spring boot as backend.  
+SystemVerse a full-stack CRUD application using React as frontend and spring boot as backend.  
 
 ## Features
 
@@ -13,10 +13,12 @@ Systemverse a full-stack CRUD application using React as frontend and spring boo
 ## Tech Stacks
 
 - To be added
+
 ## Setup
 
 - To be added
-## See Systemverse in action
+
+## See SystemVerse in action
 
 - To be added
 
@@ -26,7 +28,7 @@ Systemverse a full-stack CRUD application using React as frontend and spring boo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/thisiskushal31/Systemverse/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/thisiskushal31/SystemVerse/blob/main/LICENSE) file for details.
 
 ## About Me
 
